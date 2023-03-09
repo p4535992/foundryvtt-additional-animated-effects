@@ -1,12 +1,71 @@
 {
-  "name": "foundryvtt-animated-effects-extension-collection",
-  "title": "FoundryVTT Animated Effects extension collection",
-  "description": "A small, but growing collection of animated spell are for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format.",
-  "author": "Jack Kerouac",
-  "version": "0.0.1",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
-  "url": "https://github.com/p4535992/foundryvtt-animated-effects-extension-collection",
-  "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-animated-effects-extension-collection/master/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-animated-effects-extension-collection/releases/download/v0.0.1/v0.0.1.zip"
+	"id": "additional-animated-effects",
+	"title": "Additional Animated Effects",
+	"description": "Additional Animated Effects FoundryVTT",
+	"version": "1.5.0",
+	"authors": [
+		{
+			"name": "p4535992",
+			"url": "https://github.com/p4535992",
+			"discord": "",
+			"twitter": "",
+			"patreon": "",
+			"github": "p4535992",
+			"ko-fi": "",
+			"reddit": "",
+			"email": ""
+		}
+	],
+	"type": "module",
+	"socket": true,
+	"includes": [
+		"./assets/**",
+		"./lang/**",
+		"./languages/**",
+		"./scripts/**",
+		"./styles/**",
+		"./templates/**",
+		"./module.json",
+		"./README.md",
+		"./icons/**",
+		"./packs/**"
+	],
+	"media": [
+		{
+			"type": "icon",
+			"location": ""
+		},
+		{
+			"type": "cover",
+			"location": ""
+		},
+		{
+			"type": "screenshot",
+			"location": ""
+		}
+	],
+	"languages": [],
+	"packs": [],
+	"systems": [],
+	"scripts": [],
+	"esmodules": [],
+	"styles": [],
+	"compatibility": {
+		"minimum": 10,
+		"verified": 10,
+		"maximum": 10
+	},
+	"manifestPlusVersion": "1.2.1",
+	"url": "https://github.com/p4535992/foundryvtt-additional-animated-effects",
+	"manifest": "https://github.com/p4535992/foundryvtt-additional-animated-effects/releases/latest/download/module.json",
+	"download": "https://github.com/p4535992/foundryvtt-additional-animated-effects/releases/latest/download/module.zip",
+	"readme": "https://github.com/p4535992/foundryvtt-additional-animated-effects/blob/master/README.md",
+	"changelog": "https://github.com/p4535992/foundryvtt-additional-animated-effects/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/p4535992/foundryvtt-additional-animated-effects/issues",
+	"allowBugReporter": true,
+	"relationships": {
+		"systems": [],
+		"requires": [],
+		"conflicts": []
+	}
 }
