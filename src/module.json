@@ -1,0 +1,12 @@
+{
+  "name": "foundryvtt-animated-effects-extension-collection",
+  "title": "FoundryVTT Animated Effects extension collection",
+  "description": "A small, but growing collection of animated spell are for use with various VTT's in the top-down/overhead perspective. All files are in transparent webm format.",
+  "author": "Jack Kerouac",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://github.com/p4535992/foundryvtt-animated-effects-extension-collection",
+  "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-animated-effects-extension-collection/master/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-animated-effects-extension-collection/releases/download/v0.0.1/v0.0.1.zip"
+}
